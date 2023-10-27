@@ -1,4 +1,8 @@
-I've been developing https://www.eTajnica.com with the following tools: Angular, api services, Typescript, NestJS, HTML, SQL Database, TypeORM, Bootstrap and NG-Bootstrap.
+Web development and programming
+
+Fast, modern and customized web programs that are always available from anywhere on all devices.
+
+I've been developing https://www.eTajnica.com with the following tools: Angular, Typescript, NestJS, HTML, SQL Database, TypeORM, Bootstrap and NG-Bootstrap.
 
 <!---
 dagarint/dagarint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
